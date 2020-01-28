@@ -1,0 +1,90 @@
+#info{
+    margin-bottom: 10%;
+}
+
+#info h3{
+    margin-top:130px;
+}
+
+#ultimos-modelos{
+    margin-top: 40px;
+}
+
+h1, h2 , h3{
+    text-align: center;
+    padding: 20px;
+}
+
+.description{
+    margin-left: 120px;
+    text-align: justify;
+    width: 80%;
+}
+
+#quienes-somos{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+#whatsapp{
+    position: fixed;
+    z-index: 5;
+    top: 85%;
+    right: 1%;
+}
+
+#icons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.divs-icons img{
+    width: 64px;
+}
+
+#contact{
+    margin-left: 25%;
+    width: 75%;
+}
+
+footer{
+    background: #2f2f2f;
+    padding: 40px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer .container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer img{
+    margin: 0 40px;
+    width: 40px;
+    transform: rotate(0);
+    transition: 0.4s;
+}
+
+footer p{
+    color:white;
+    margin-top: 40px;
+}
+
+nav{
+    background: crimson;
+    opacity: 97%;
+}
+
+#logo{
+    width: 75px;
+    height: 75px;
+}
+
+#fiat-img{
+    width: 100%;
+    
+    opacity: .9;
+}
